@@ -55,4 +55,4 @@ Kivor is still in active development. Veridex stays here as the original prototy
 
 ---
 
-Built by Vik, BSc Computer Science, University of Plymouth
+Built by Vikash, BSc Computer Science, University of Plymouth
